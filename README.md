@@ -32,14 +32,14 @@ A través de la teoría, la configuración práctica y la creación de scripts e
 
 ## 📂 Contenido del Repositorio
 
-### 📄 Trabajo-Práctico-Integrador-Ayso.pdf
-Documento teórico completo del trabajo, que incluye conceptos, diferencias, pruebas y reflexiones finales
+### 📄 TP Integracion 2 - Arrieta - Andrelo - Alvarez - Azcuy - Apiani.pdf
+Documento teórico completo del trabajo
 
-## 📁 python/ Contiene tres scripts desarrollados en Python:
+## 📁 python/ Contiene scripts desarrollados en Python:
 
-- `archivo`: un script desarrollado y ejecutado dentro de una máquina virtual Ubuntu.  
-- `archivo`: una aplicación web creada con Flask que muestra estadísticas de Lionel Messi en formato HTML.  
-- `archivo`: un cliente HTTP que intenta conectarse al servidor Flask para verificar su disponibilidad.
+- `archivo`: descripcion  
+- `archivo`: descripcion
+- `archivo`: descripcion
 
 ## 📁 carpeta/
 descripcion
