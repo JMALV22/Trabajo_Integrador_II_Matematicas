@@ -28,27 +28,26 @@ El objetivo de este trabajo práctico es demostrar la comprensión y aplicación
 
 - Estructuras básicas de programación en Python
 
-A través de la teoría, los diagramas de Venn, la configuración práctica y la creación de scripts en Python, se implementan soluciones a partir de datos reales (números de DNI y años de nacimiento).
+A través de la teoría, los diagramas de Venn, la configuración práctica y la creación de scripts en Python, se implementan soluciones a partir de datos reales (números de DNI y años de nacimiento)
 
 ---
 
 ## 📂 Contenido del Repositorio
 
 ### 📄 TP Integracion 2 - Arrieta - Andrelo - Alvarez - Azcuy - Apiani.pdf
-Documento teórico completo del trabajo
+Documento teórico completo que incluye el desarrollo matemático (conjuntos y operaciones), expresiones lógicas evaluadas, análisis de resultados, diagramas de Venn, distribución de tareas del grupo y conclusiones finales del trabajo práctico integrador
 
 ## 📄 Archivos .py
 
-- `TP_INT_unificado.py`: Script principal que integra todas las funcionalidades del trabajo práctico: operaciones con DNIs, análisis de años de nacimiento, cálculo de edades, producto cartesiano y evaluación de expresiones lógicas redactadas en lenguaje natural. 
+- `TP_INT_unificado.py`: Script principal que integra todas las funcionalidades del trabajo práctico: operaciones con DNIs, análisis de años de nacimiento, cálculo de edades, producto cartesiano y evaluación de expresiones lógicas redactadas en lenguaje natural.
 
 ## 📁 Diagramas/
-Contiene los diagramas de Venn correspondientes a las operaciones entre conjuntos (unión, intersección, diferencia y diferencia simétrica).
+Contiene los diagramas de Venn correspondientes a las operaciones entre conjuntos (unión, intersección, diferencia y diferencia simétrica)
 
 ## 📺 Video Explicativo 
 Video donde se explica el desarrollo, las pruebas realizadas y una demostración final de la actividad
 
 ### (futuro link)
-
 
 ---
 
