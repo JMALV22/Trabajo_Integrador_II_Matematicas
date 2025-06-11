@@ -11,7 +11,7 @@ Profundizar la integración entre los contenidos de Matemática (conjuntos y ló
 - **Nombre:** Luciano Andrelo
 - **Nombre:** Facundo Arrieta
 - **Nombre:** Jose Matias Alvarez
-- **Nombre:** Azcuy Nicolas
+- **Nombre:** Nicolas Azcuy
 - **Nombre:** Jeremias Apiani
 - **Comisión:** M2025-24  
 
