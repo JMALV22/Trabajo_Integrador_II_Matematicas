@@ -54,4 +54,4 @@ Video donde se explica el desarrollo, las pruebas realizadas y una demostración
 
 ## ✅ Conclusiones
 
-la conclusion
+El trabajo permitió consolidar el vínculo entre lógica matemática y programación, mediante el análisis estructurado de conjuntos numéricos y la implementación de condiciones y operaciones en código. Se aplicaron conocimientos teóricos y prácticos, fomentando también el trabajo en equipo y la organización grupal
