@@ -4,8 +4,7 @@ En este Trabajo Integrador, se integran las materias Matemáticas y Programació
 **Tecnicatura Universitaria en Programación**  
 📍 *Universidad Tecnológica Nacional*
 
-## Objetivo
-Profundizar la integración entre los contenidos de Matemática (conjuntos y lógica) y Programación (estructuras condicionales, repetitivas y funciones), fortaleciendo también el trabajo en equipo, la comunicación clara y la responsabilidad individual en proyectos colaborativos.
+Profundizaremos la integración entre los contenidos de Matemática (conjuntos y lógica) y Programación (estructuras condicionales, repetitivas y funciones), fortaleciendo también el trabajo en equipo, la comunicación clara y la responsabilidad individual en proyectos colaborativos.
 
 ## ✨ Estudiantes 
 - **Nombre:** Luciano Andrelo
@@ -21,12 +20,15 @@ Profundizar la integración entre los contenidos de Matemática (conjuntos y ló
 
 El objetivo de este trabajo práctico es demostrar la comprensión y aplicación de los conceptos de:
 
-(lleno pendiente)
+- Conjuntos numéricos
 
--
+- Operaciones entre conjuntos
 
-A través de la teoría, la configuración práctica y la creación de scripts en Python, (despues)
+- Lógica proposicional
 
+- Estructuras básicas de programación en Python
+
+A través de la teoría, los diagramas de Venn, la configuración práctica y la creación de scripts en Python, se implementan soluciones a partir de datos reales (números de DNI y años de nacimiento).
 
 ---
 
@@ -35,14 +37,12 @@ A través de la teoría, la configuración práctica y la creación de scripts e
 ### 📄 TP Integracion 2 - Arrieta - Andrelo - Alvarez - Azcuy - Apiani.pdf
 Documento teórico completo del trabajo
 
-## 📁 python/ Contiene scripts desarrollados en Python:
+## 📄 Archivos .py
 
-- `archivo`: descripcion  
-- `archivo`: descripcion
-- `archivo`: descripcion
+- `TP_INT_unificado.py`: Script principal que integra todas las funcionalidades del trabajo práctico: operaciones con DNIs, análisis de años de nacimiento, cálculo de edades, producto cartesiano y evaluación de expresiones lógicas redactadas en lenguaje natural. 
 
-## 📁 carpeta/
-descripcion
+## 📁 Diagramas/
+Contiene los diagramas de Venn correspondientes a las operaciones entre conjuntos (unión, intersección, diferencia y diferencia simétrica).
 
 ## 📺 Video Explicativo 
 Video donde se explica el desarrollo, las pruebas realizadas y una demostración final de la actividad
