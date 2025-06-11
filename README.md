@@ -54,4 +54,4 @@ Video donde se explica el desarrollo, las pruebas realizadas y una demostración
 
 ## ✅ Conclusiones
 
-El trabajo permitió comprender las diferencias entre la virtualización tradicional y la basada en contenedores, así como aplicar conceptos clave de programación y administración de sistemas. Se identificaron desafíos reales de instalación, permisos y sincronización de archivos, todos resueltos con herramientas del entorno Linux y GitHub
+la conclusion
