@@ -39,7 +39,8 @@ Documento teórico completo que incluye el desarrollo matemático (conjuntos y o
 
 ## 📄 Archivos .py
 
-- `TP_INT_unificado.py`: Script principal que integra todas las funcionalidades del trabajo práctico: operaciones con DNIs, análisis de años de nacimiento, cálculo de edades, producto cartesiano y evaluación de expresiones lógicas redactadas en lenguaje natural.
+- `TP_INT_unificado.py`  
+Script principal que integra todas las funcionalidades del trabajo práctico: operaciones con DNIs, análisis de años de nacimiento, cálculo de edades, producto cartesiano y evaluación de expresiones lógicas redactadas en lenguaje natural.
 
 ## 📁 Diagramas/
 Contiene los diagramas de Venn correspondientes a las operaciones entre conjuntos (unión, intersección, diferencia y diferencia simétrica)
