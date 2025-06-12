@@ -28,7 +28,7 @@ El objetivo de este trabajo práctico es demostrar la comprensión y aplicación
 
 - Estructuras básicas de programación en Python
 
-A través de la teoría, los diagramas de Venn, la configuración práctica y la creación de scripts en Python, se implementan soluciones a partir de datos reales (números de DNI y años de nacimiento)
+A través de la teoría, los diagramas de Venn, la configuración práctica y la creación de scripts en Python, se implementan soluciones a partir de datos reales (números de DNI y fechas de nacimiento)
 
 ---
 
