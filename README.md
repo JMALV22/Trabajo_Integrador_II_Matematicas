@@ -16,7 +16,7 @@ Profundizaremos la integración entre los contenidos de Matemática (conjuntos y
 
 ---
 
-## 📁 Descripción del Repositorio
+## 📝 Descripción del Repositorio
 
 El objetivo de este trabajo práctico es demostrar la comprensión y aplicación de los conceptos de:
 
