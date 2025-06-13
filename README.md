@@ -42,7 +42,7 @@ Contiene los diagramas de Venn correspondientes a las operaciones entre conjunto
 
 ## 📄 Archivos .py
 
-- `TP_INT_unificado.py`  
+- `trabajo_practico_integrador.py`  
 Script principal que integra todas las funcionalidades del trabajo práctico: operaciones con DNIs, análisis de años de nacimiento, cálculo de edades, producto cartesiano y evaluación de expresiones lógicas redactadas en lenguaje natural.
 
 ## 📺 Video Explicativo 
