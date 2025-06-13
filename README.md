@@ -48,7 +48,7 @@ Script principal que integra todas las funcionalidades del trabajo práctico: op
 ## 📺 Video Explicativo 
 Video donde se explica el desarrollo, las pruebas realizadas y una demostración final de la actividad
 
-### (futuro link)
+### https://www.youtube.com/watch?v=6FjYPWl3QW0
 
 ---
 
